@@ -1,0 +1,18 @@
+Package: OCtesting
+Type: Package
+Title: Tests OpenClinica
+Version: 1.0
+Date: 2013-08-16
+Author: Tyler Hunt
+Maintainer: Tyler Hunt <tyler.hunt@utah.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+Imports:
+    gdata,
+    stringr
+Collate:
+    'item.length.R'
+    'read.forms.R'
+    'underscores.R'
+    'specialChars.R'
+    'alphaStart.R'
